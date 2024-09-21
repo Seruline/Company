@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "IlU/6IMoMaD5nNasRUpDaOEVdRXLV3AMxO5rmRRc770=",
+  "Source": "Company",
+  "BasePath": "_content/Company",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Company\\wwwroot",
+      "Source": "Company",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
